@@ -12,4 +12,4 @@ Imagine to have the important information from each employee of your company in 
 
 ## This is the link of the app
 
-[a link](https://salvadordiaz1222.github.io/my-portfolio/)
+[a link](https://github.com/salvadordiaz1222/Team-Profile-Generator)
